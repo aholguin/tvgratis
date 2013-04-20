@@ -1,0 +1,24 @@
+/* 
+    Document   : content
+    Created on : 15/10/2011, 10:46:29 PM
+    Author     : anderson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#content{
+
+    background: url("images/body_bg.gif") repeat-x scroll 0 0 #E8E8D0;
+    padding-top:  15px;
+    padding-bottom: 15px;
+   
+}
+#content #divStreaming{
+    font-size: 10px;
+}
+ 

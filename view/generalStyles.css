@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* 
+    Document   : generalStyles
+    Created on : 16/04/2011, 10:38:24 PM
+    Author     : anderson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    background: #E8E8D0;
+}
+body,td,th {
+    font-family: "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+}

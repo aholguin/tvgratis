@@ -1,0 +1,27 @@
+/* 
+    Document   : footer
+    Created on : 16/10/2011, 11:38:27 PM
+    Author     : anderson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+#footer{
+    height: 109px;
+    width: 100%;
+    background:url(images/footer_bg.gif) repeat-x    ;
+}
+
+
+#footer .container_12 .grid_12 {
+    text-align:center;
+    font-size:10px;
+    color: #FFF;
+    font-family:'Berlin_Sans_FB';
+    padding: 20px 0px 0px 0px;
+
+}

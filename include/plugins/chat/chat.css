@@ -1,0 +1,28 @@
+/* 
+    Document   : chat
+    Created on : 12/01/2012, 04:13:35 PM
+    Author     : anderson.holguin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+#divVisorChat
+{
+    border: 1px solid #d0d0d0;
+    border-color: #000;
+    height:150px;  
+    overflow:auto;
+}
+
+#divMensaje{
+    font-size: 10px;
+}

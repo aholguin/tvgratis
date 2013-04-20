@@ -1,0 +1,57 @@
+/* 
+    Document   : fonts
+    Created on : 16/04/2011, 06:42:10 PM
+    Author     : Anderson Holguin
+    Description:
+        contiene las fuentes CSS
+*/
+
+
+@font-face{
+   font-family: "mailrays";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/mailrays.ttf);
+}
+@font-face{
+   font-family: "KentuckyFriedChickenFont";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/KentuckyFriedChickenFont.ttf);
+}
+@font-face{
+   font-family: "Berlin_Sans_FB";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/Berlin_Sans_FB.ttf);
+}
+
+@font-face{
+   font-family: "facebook";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/KlavikaBoldBold.otf);
+}
+
+@font-face{
+   font-family: "twitter";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/PICOBLA_.TTF);
+}
+
+@font-face{
+   font-family: "twitter1";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/PICOWA__.TTF);
+}
+
+@font-face{
+   font-family: "FFFFORWA";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/FFFFORWA.TTF);
+}
+
+
